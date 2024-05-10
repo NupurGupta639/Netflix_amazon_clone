@@ -1,1 +1,0 @@
-# Netflix_amazon_clone
